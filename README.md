@@ -28,7 +28,6 @@ I love building new things and solving real world problems and I hope you enjoy 
 #
 ### ⚛️ Latest Project! 
 My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different masses and starting velocities. 
-
 https://github.com/user-attachments/assets/ab7b9452-3084-43fe-aace-c5658ce6ab02
 
 <!--
