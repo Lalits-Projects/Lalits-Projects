@@ -16,7 +16,7 @@ I love building new things and solving real world problems and I hope you enjoy 
    </p>
 
 ---
-### 🧰 Languages and Tools
+### Languages and Systems! 
 <img align="left" alt="C" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,21 +25,17 @@ I love building new things and solving real world problems and I hope you enjoy 
 <img align="left" alt="C#" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br />
 
-#
-### ⚛️ Latest Project! 
+---
+### Latest Project! 
 My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different masses and starting velocities.
 
 https://github.com/user-attachments/assets/ab7b9452-3084-43fe-aace-c5658ce6ab02
 
 ---
-
-
-#
-
 ### GitHub Stats
 ![Lalits's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalits-projects&show_icons=true&theme=gotham)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-#
+---
 
