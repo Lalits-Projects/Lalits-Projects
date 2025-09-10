@@ -29,6 +29,8 @@ I love building new things and solving real world problems and I hope you enjoy 
 ### ⚛️ Latest Project! 
 My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different masses and starting velocities. 
 
+https://github.com/user-attachments/assets/aaa12288-10e5-4367-ad46-63aa8ce9b25a
+
 
 <!--
 **Lalits-Projects/Lalits-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
