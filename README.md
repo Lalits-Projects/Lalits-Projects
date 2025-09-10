@@ -1,8 +1,10 @@
 # Lalit Yadav
 
-**`Studying Computer Science (Cyber Security) and Engineering (Honours - Mechatronic Systems)`**
+**`Currently Studying Computer Science (Cyber Security) and Engineering (Honours - Mechatronic Systems)`**
 
-Hello! I am a hands-on Computing & Engineering student blending software, hardware and design to ship polished, user-centred systems. I love building new things and solving real world problems and I hope you enjoy some of the things I have built so far! I post many of projects on my YouTube channel showcasing what problem I intend to slove with this new device and what additional skill I choose to focus on imporving. Note: The videos are quite informal, for a more focused review of my work please review my GitHub page
+Hello! I am a hands-on Computing & Engineering student blending software, hardware and design to ship polished, user-centred systems. I have experince in object-oriented systems, large data analysise (via Pandas), and cyber security foundations. 
+
+I love building new things and solving real world problems and I hope you enjoy some of the things I have built so far! I post many of projects on my YouTube channel showcasing what problem I intend to slove with this new device and what additional skill I choose to focus on imporving. Note: The videos are quite informal, for a more focused review of my work please review my GitHub page.
 
    <p align="left">
       <a href="https://www.youtube.com/@Ansh_Builds_Things?sub_confirmation=1">
@@ -21,12 +23,11 @@ Hello! I am a hands-on Computing & Engineering student blending software, hardwa
 <img align="left" alt="Arduino C" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-
 <br />
 
 #
-
+### ⚛️ Latest Project! 
+My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different sizes and starting velocities. 
 
 
 <!--
