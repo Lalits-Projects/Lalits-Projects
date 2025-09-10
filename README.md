@@ -31,3 +31,15 @@ My most recent project was a simple Newtonian Gravity Simultion which modeled ho
 
 https://github.com/user-attachments/assets/ab7b9452-3084-43fe-aace-c5658ce6ab02
 
+---
+
+
+#
+
+### GitHub Stats
+![Lalits's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalits-projects&show_icons=true&theme=gotham)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
