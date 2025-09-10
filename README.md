@@ -1,4 +1,6 @@
-## Hi there 👋
+# Lalit Yadav
+
+**`Studying Computer Science and Engineering`**
 
 <!--
 **Lalits-Projects/Lalits-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
