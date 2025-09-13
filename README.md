@@ -6,14 +6,7 @@ Hello! I am a hands-on Computing & Engineering student blending software, hardwa
 
 I love building new things and solving real world problems and I hope you enjoy some of the things I have built so far! I post many of projects on my YouTube channel showcasing what problem I intend to slove with this new device and what additional skill I choose to focus on imporving. Note: The videos are quite informal, for a more focused review of my work please review my GitHub page.
 
-   <p align="left">
-      <a href="https://www.youtube.com/@Ansh_Builds_Things?sub_confirmation=1">
-       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC14gsh9AR_pE10-6ZeaN3HA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-     <a href="https://www.youtube.com/@Ansh_Builds_Things">
-       <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC14gsh9AR_pE10-6ZeaN3HA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
 
-
-   </p>
 
 ---
 ### Languages and Systems! 
