@@ -9,13 +9,14 @@ I love building new things and solving real world problems and I hope you enjoy 
 <p align="left">
   <a href="https://www.youtube.com/@Ansh_Builds_Things?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC14gsh9AR_pE10-6ZeaN3HA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630&v=1"/>
-  </a>
-  <a href="https://www.youtube.com/@Ansh_Builds_Things">
+         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC14gsh9AR_pE10-6ZeaN3HA?color=%230A3069&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%231F6FEB&v=3"/>
+  </a><!--
+  --><a href="https://www.youtube.com/@Ansh_Builds_Things">
     <img alt="youtube views" title="YouTube views"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC14gsh9AR_pE10-6ZeaN3HA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&v=1"/>
+         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC14gsh9AR_pE10-6ZeaN3HA?color=%232563EB&logo=eye&logoColor=white&style=for-the-badge&labelColor=%231E3A8A&v=3"/>
   </a>
 </p>
+
 
 
 ---
