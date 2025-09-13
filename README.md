@@ -29,13 +29,41 @@ I love building new things and solving real world problems and I hope you enjoy 
 
 ---
 ### Latest Project! 
-My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different masses and starting velocities.
+#### Newtonian Gravity Simultion
+My most recent project was a simple Newtonian Gravity Simultion which modeled how the graviational force can influnce different particles of different masses and starting velocities. For more information, check out the repository!
 
-https://github.com/user-attachments/assets/ab7b9452-3084-43fe-aace-c5658ce6ab02
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ab7b9452-3084-43fe-aace-c5658ce6ab02"
+         controls
+         playsinline
+         width="720">
+  </video>
+</div>
+
+
+#### To-Do List Tracker
+
+I also recently made a very simple To-Do list tracker and just love the way it looks. Check it out below! For for information check out the repository! 
+
+<p align="center">
+  <img width="251" height="93" alt="Image" src="https://github.com/user-attachments/assets/b3b5fae9-e1c8-441b-aa96-d7ad0b5fcda5" />
+</p>
+
+
+<p align="center">
+  <img width="373" height="67" alt="Image" src="https://github.com/user-attachments/assets/094e9941-0970-4eb1-9950-23915850997d" /></p>
+
+</p>
+
 
 ---
 ### GitHub Stats
-![Lalits's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalits-projects&show_icons=true&theme=gotham)
+
+<div align="center">
+
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalits-projects&show_icons=true&theme=holi)
+
+</div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
