@@ -6,16 +6,14 @@ Hello! I am a hands-on Computing & Engineering student blending software, hardwa
 
 I love building new things and solving real world problems and I hope you enjoy some of the things I have built so far! I post many of projects on my YouTube channel showcasing what problem I intend to slove with this new device and what additional skill I choose to focus on imporving. Note: The videos are quite informal, for a more focused review of my work please review my GitHub page.
 
-<p align="left">
-  <a href="https://www.youtube.com/@Ansh_Builds_Things?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC14gsh9AR_pE10-6ZeaN3HA?color=%230A3069&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%231F6FEB&v=3"/>
-  </a><!--
-  --><a href="https://www.youtube.com/@Ansh_Builds_Things">
-    <img alt="youtube views" title="YouTube views"
-         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC14gsh9AR_pE10-6ZeaN3HA?color=%232563EB&logo=eye&logoColor=white&style=for-the-badge&labelColor=%231E3A8A&v=3"/>
-  </a>
-</p>
+  <p align="left">
+    <a href="https://www.youtube.com/@Ansh_Builds_Things?sub_confirmation=1">
+     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC14gsh9AR_pE10-6ZeaN3HA?color=%23033456&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%230A6DB3&v=13"/></a>
+   <a href="https://www.youtube.com/@Ansh_Builds_Things">
+     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC14gsh9AR_pE10-6ZeaN3HA?color=%23033456&logo=eye&logoColor=white&style=for-the-badge&labelColor=%230A6DB3&v=13"/></a>
+  
+  
+  </p>
 
 
 
